@@ -1,2 +1,2 @@
 <?php
-echo 'Tomislav Glavaš test pull';
+echo 'Tomislav Glavaš test2 pull';
